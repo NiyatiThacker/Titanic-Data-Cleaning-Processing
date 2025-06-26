@@ -46,8 +46,10 @@ The project is broken into 4 well-structured Jupyter notebooks, each focused on 
 - Use boxplots to identify outliers in `Age`, `Fare`, `SibSp`, and `Parch`
 - Remove outliers using the IQR method
 - Save final cleaned dataset
+![image](https://github.com/user-attachments/assets/2f2d1e10-2a71-4b9f-ad37-b97eca299407)
 
-![image](https://github.com/user-attachments/assets/59964be0-53b7-407a-9e59-ff323c5c1a52)
+
+
 
 
 ---
